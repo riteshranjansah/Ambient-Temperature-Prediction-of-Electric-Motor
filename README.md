@@ -1,2 +1,2 @@
-# Abmient-Temperature-Prediction-of-Electric-Motor
+# AMBIENT TEMPERATURE PREDICTION OF ELECTRIC MOTOR
 ## Minor Project
