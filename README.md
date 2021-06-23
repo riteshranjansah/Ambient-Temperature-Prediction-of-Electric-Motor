@@ -1,1 +1,2 @@
-# Abmient-Temperature-Prediction-of-Electric-Motro
+# Abmient-Temperature-Prediction-of-Electric-Motor
+## Minor Project
